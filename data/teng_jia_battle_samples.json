@@ -1,0 +1,145 @@
+[
+  {
+    "report_file": "战报_6310083_pid7408718.json",
+    "caster": "于吉",
+    "skill_name": "藤甲兵",
+    "skill_level": 10,
+    "hero_level": 45,
+    "battle_tongshuai": 176.83,
+    "actual_reduction_pct": 29.27,
+    "predicted_reduction_pct": 29.27,
+    "error_pct": 0.00
+  },
+  {
+    "report_file": "战报_6274533_pid7364564.json",
+    "caster": "于吉",
+    "skill_name": "藤甲兵",
+    "skill_level": 10,
+    "hero_level": 45,
+    "battle_tongshuai": 229.75,
+    "actual_reduction_pct": 32.90,
+    "predicted_reduction_pct": 32.90,
+    "error_pct": 0.00
+  },
+  {
+    "report_file": "战报_6246502_pid7326100.json",
+    "caster": "于吉",
+    "skill_name": "藤甲兵",
+    "skill_level": 10,
+    "hero_level": 46,
+    "battle_tongshuai": 239.12,
+    "actual_reduction_pct": 33.54,
+    "predicted_reduction_pct": 33.54,
+    "error_pct": 0.00
+  },
+  {
+    "report_file": "战报_6268082_pid7355701.json",
+    "caster": "于吉",
+    "skill_name": "藤甲兵",
+    "skill_level": 10,
+    "hero_level": 50,
+    "battle_tongshuai": 290.96,
+    "actual_reduction_pct": 37.09,
+    "predicted_reduction_pct": 37.09,
+    "error_pct": 0.00
+  },
+  {
+    "report_file": "战报_6310824_pid7409660.json",
+    "caster": "满宠",
+    "skill_name": "藤甲兵",
+    "skill_level": 10,
+    "hero_level": 50,
+    "battle_tongshuai": 299.14,
+    "actual_reduction_pct": 37.66,
+    "predicted_reduction_pct": 37.66,
+    "error_pct": 0.00
+  },
+  {
+    "report_file": "战报_6276295_pid7367010.json",
+    "caster": "于吉",
+    "skill_name": "藤甲兵",
+    "skill_level": 10,
+    "hero_level": 46,
+    "battle_tongshuai": 303.60,
+    "actual_reduction_pct": 37.96,
+    "predicted_reduction_pct": 37.96,
+    "error_pct": 0.00
+  },
+  {
+    "report_file": "战报_6264960_pid7351527.json",
+    "caster": "满宠",
+    "skill_name": "藤甲兵",
+    "skill_level": 10,
+    "hero_level": 50,
+    "battle_tongshuai": 319.03,
+    "actual_reduction_pct": 39.02,
+    "predicted_reduction_pct": 39.02,
+    "error_pct": 0.00
+  },
+  {
+    "report_file": "战报_6281469_pid7374152.json",
+    "caster": "曹操",
+    "skill_name": "藤甲兵",
+    "skill_level": 10,
+    "hero_level": 45,
+    "battle_tongshuai": 347.70,
+    "actual_reduction_pct": 40.98,
+    "predicted_reduction_pct": 40.99,
+    "error_pct": -0.01
+  },
+  {
+    "report_file": "战报_6295886_pid7391146.json",
+    "caster": "曹操",
+    "skill_name": "藤甲兵",
+    "skill_level": 10,
+    "hero_level": 45,
+    "battle_tongshuai": 366.74,
+    "actual_reduction_pct": 42.29,
+    "predicted_reduction_pct": 42.29,
+    "error_pct": 0.00
+  },
+  {
+    "report_file": "战报_6253898_pid7336705.json",
+    "caster": "诸葛亮",
+    "skill_name": "藤甲兵",
+    "skill_level": 10,
+    "hero_level": 49,
+    "battle_tongshuai": 421.51,
+    "actual_reduction_pct": 46.05,
+    "predicted_reduction_pct": 46.05,
+    "error_pct": 0.00
+  },
+  {
+    "report_file": "战报_6318513_pid7419991.json",
+    "caster": "马岱",
+    "skill_name": "藤甲兵",
+    "skill_level": 10,
+    "hero_level": 45,
+    "battle_tongshuai": 424.13,
+    "actual_reduction_pct": 46.23,
+    "predicted_reduction_pct": 46.23,
+    "error_pct": 0.00
+  },
+  {
+    "report_file": "战报_6262487_pid7348263.json",
+    "caster": "曹操",
+    "skill_name": "藤甲兵",
+    "skill_level": 10,
+    "hero_level": 48,
+    "battle_tongshuai": 449.44,
+    "actual_reduction_pct": 47.96,
+    "predicted_reduction_pct": 47.96,
+    "error_pct": 0.00
+  },
+  {
+    "report_file": "战报_6260027_pid7345034.json",
+    "caster": "曹操",
+    "skill_name": "藤甲兵",
+    "skill_level": 10,
+    "hero_level": 50,
+    "battle_tongshuai": 532.43,
+    "actual_reduction_pct": 53.65,
+    "predicted_reduction_pct": 53.65,
+    "error_pct": 0.00
+  }
+]
